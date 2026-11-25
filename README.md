@@ -98,7 +98,7 @@ StormSale organizes platform features into dedicated personas:
 - **Compliance Reporting:** Live scorecard covering NIST SP 800-53, ISO/IEC 27001, SOC 2 Type II, and FIPS 140-2.
 
 ---
-
+...
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
